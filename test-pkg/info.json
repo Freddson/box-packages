@@ -1,0 +1,11 @@
+{
+    "name": "testpkg",
+    "version": "0.0.1",
+    "author": "testauthor1",
+    "newestbuild": "testpkg-0.0.1",
+    "category": "miscellaneous",
+    "buildhash": "6da2cf778809c2fc3f8806b8ad6e535f9d3cd6eb9327efc9b97678d27a9a11a7cfa622a4ae90dcfd37303c4246179f92726e0cda5cf357583d1477907bd2af84",
+    "dependencies": "",
+    "description": "A small test package for box!",
+    "branch": "stable"
+}
